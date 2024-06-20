@@ -1,0 +1,1 @@
+int decimal(char*str);

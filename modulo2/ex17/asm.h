@@ -1,0 +1,9 @@
+int sum();
+int subtraction();
+int multiplication();
+int division();
+int modulus();
+int power2_op1();
+int power2_op2();
+int power3_op1();
+int power3_op2();
